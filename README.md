@@ -67,6 +67,20 @@ Collections:
 - users
 - profiles
 - sequence
+- 
+## Backend Screenshots
 
-## Frontend Repository
-https://github.com/durgaprasad18-k/JobPortal-fronten
+### MongoDB Database
+![MongoDB](screenshots/backend screenshots/mongo db.png)
+
+### Users Collection
+![Users](screenshots/backend screenshots/users.png)
+
+### Profiles Collection
+![Profiles](screenshots/backend screenshots/profiles.png)
+
+### Register API
+![Register API](screenshots/backend screenshots/postman-register.png)
+
+### Login API
+![Login API](screenshots/backend screenshots/postman-jwt.png)
