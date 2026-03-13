@@ -71,7 +71,7 @@ Collections:
 ## Backend Screenshots
 
 ### MongoDB Database
-![MongoDB](screenshots/backend screenshots/mongo db.png)
+![MongoDB](screenshots/backend screenshots/mongodb.png)
 
 ### Users Collection
 ![Users](screenshots/backend screenshots/users.png)
